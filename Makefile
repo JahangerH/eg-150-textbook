@@ -42,7 +42,7 @@ build:
 	uv run jupyter-book build --keep-going .
 
 site:   
-	make clean
+	# make clean
 	make assets
 	uv run jupyter-book build .
 	# make portfolio

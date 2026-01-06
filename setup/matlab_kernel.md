@@ -7,9 +7,9 @@ jupyter:
       format_version: '1.3'
       jupytext_version: 1.16.7
   kernelspec:
-    display_name: MKernel
+    display_name: MATLAB Kernel
     language: matlab
-    name: mkernel
+    name: jupyter_matlab_kernel
 ---
 
 Testing the Jupyter MATLAB Kernel
@@ -19,7 +19,7 @@ Interact with MATLAB in Notebook the using the [MATLAB engine for Python](https:
 
 ```matlab
 % Use inline SVG graphics
-imatlab_export_fig('print-svg')
+% imatlab_export_fig('print-svg')
 ```
 
 ```matlab
@@ -52,8 +52,4 @@ disp(b)
 
 ```matlab
 %lsmagic
-```
-
-```python
-print('Hello, world!')
 ```

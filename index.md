@@ -1,7 +1,7 @@
 # EG-150 Signals and Systems
 
 
-Follow along at [cpjobling.github.io/eg-150-textbook](https://cpjobling.github.io/eg-150-textbook)
+Follow along at [jahangerh.github.io/eg-150-textbook](https://jahangerh.github.io/eg-150-textbook)
 
 
 ## About this Course

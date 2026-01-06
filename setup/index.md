@@ -6,11 +6,11 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.14.1
+      jupytext_version: 1.16.7
   kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
+    display_name: MATLAB Kernel
+    language: matlab
+    name: jupyter_matlab_kernel
 ---
 
 # Setting up your Own Jupyter-MATLAB Computing Environment
